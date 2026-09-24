@@ -1,3 +1,9 @@
+# 🚀 DOMAIN VERSE 1.0
+
+> A 6-day technical problem-solving project for **Arya College of Engineering’s DomainVerse Hackathon**. We explore real-world challenges through AI, Machine Learning, Data Science, Cloud Computing, Cybersecurity, and Data Analytics to build innovative, practical, and scalable solutions.
+
+---
+
 # 🛒 E-Commerce Sales, Returns & Customer Behavior Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
